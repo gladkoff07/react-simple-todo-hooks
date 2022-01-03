@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-simple-todo-hooks/static/css/main.c0c8bf5d.css",
+    "main.js": "/react-simple-todo-hooks/static/js/main.93bafa12.js",
+    "index.html": "/react-simple-todo-hooks/index.html",
+    "main.c0c8bf5d.css.map": "/react-simple-todo-hooks/static/css/main.c0c8bf5d.css.map",
+    "main.93bafa12.js.map": "/react-simple-todo-hooks/static/js/main.93bafa12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c8bf5d.css",
+    "static/js/main.93bafa12.js"
+  ]
+}
